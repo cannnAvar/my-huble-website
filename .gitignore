@@ -1,0 +1,66 @@
+# =========================
+# Neocities'ta Çalışmaz (Sunucu taraflı kod)
+# =========================
+*.php
+*.py
+*.rb
+*.pl
+*.cgi
+*.asp
+*.aspx
+*.jsp
+*.node
+
+# =========================
+# Çalıştırılabilir Dosyalar
+# =========================
+*.exe
+*.msi
+*.apk
+*.dmg
+*.iso
+*.bat
+*.sh
+*.cmd
+
+# =========================
+# Arşiv Dosyaları
+# =========================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.tgz
+
+# =========================
+# Log ve Geçici Dosyalar
+# =========================
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# =========================
+# Node / Build Artıkları (eğer kullanırsan)
+# =========================
+node_modules/
+dist/
+build/
+.cache/
+.next/
+out/
+
+# =========================
+# Editör / IDE Dosyaları
+# =========================
+.vscode/
+.idea/
+*.swp
+
+# =========================
+# Ortam Değişkenleri
+# =========================
+.env
+.env.*
