@@ -1,0 +1,14 @@
+/* Temel Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Dark Tema */
+body {
+    background-color: #b8c2b9;
+    color: #382b26;
+    line-height: 1.6;
+}
